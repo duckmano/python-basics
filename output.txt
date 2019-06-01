@@ -1,0 +1,6 @@
+The following devices and interfaces are enabled, but have no description.
+Please review and take appropriate action.
+--------------------------------------------------------------------------
+
+192.168.145.129: GigabitEthernet1, GigabitEthernet2, GigabitEthernet3
+192.168.145.130: GigabitEthernet1, GigabitEthernet2
